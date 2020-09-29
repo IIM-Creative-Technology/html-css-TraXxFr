@@ -103,7 +103,7 @@ main {
 }
 
 .responses form div{
-    font-size: 5em;
+    font-size: 4em;
     padding: 2%;
     width: 95%;
     font-weight: bold;
@@ -111,6 +111,7 @@ main {
     border: black 5px solid;
     border-radius: 20px;
     background-color: var(--background_sondage);
+    text-align: center;
 }
 
 input[type=checkbox] {
